@@ -1,0 +1,2122 @@
+[
+  {
+    "id": "instagram-cristiano-ronaldo-lionel-messi",
+    "first": {
+      "name": "Cristiano Ronaldo",
+      "imageKey": "cristiano-ronaldo",
+      "value": 600000000
+    },
+    "second": {
+      "name": "Lionel Messi",
+      "imageKey": "lionel-messi",
+      "value": 482000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Lionel Messi tenía más o menos de 600 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "instagram-cristiano-ronaldo-neymar",
+    "first": {
+      "name": "Cristiano Ronaldo",
+      "imageKey": "cristiano-ronaldo",
+      "value": 600000000
+    },
+    "second": {
+      "name": "Neymar",
+      "imageKey": "neymar",
+      "value": 211000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Neymar tenía más o menos de 600 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "instagram-cristiano-ronaldo-kylian-mbappe",
+    "first": {
+      "name": "Cristiano Ronaldo",
+      "imageKey": "cristiano-ronaldo",
+      "value": 600000000
+    },
+    "second": {
+      "name": "Kylian Mbappé",
+      "imageKey": "kylian-mbappe",
+      "value": 107000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Kylian Mbappé tenía más o menos de 600 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "instagram-lionel-messi-neymar",
+    "first": {
+      "name": "Lionel Messi",
+      "imageKey": "lionel-messi",
+      "value": 482000000
+    },
+    "second": {
+      "name": "Neymar",
+      "imageKey": "neymar",
+      "value": 211000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Neymar tenía más o menos de 482 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "instagram-lionel-messi-kylian-mbappe",
+    "first": {
+      "name": "Lionel Messi",
+      "imageKey": "lionel-messi",
+      "value": 482000000
+    },
+    "second": {
+      "name": "Kylian Mbappé",
+      "imageKey": "kylian-mbappe",
+      "value": 107000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Kylian Mbappé tenía más o menos de 482 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "instagram-neymar-kylian-mbappe",
+    "first": {
+      "name": "Neymar",
+      "imageKey": "neymar",
+      "value": 211000000
+    },
+    "second": {
+      "name": "Kylian Mbappé",
+      "imageKey": "kylian-mbappe",
+      "value": 107000000
+    },
+    "topic": "Seguidores en Instagram",
+    "unit": "seguidores en Instagram",
+    "question": "¿Kylian Mbappé tenía más o menos de 211 M seguidores en Instagram?",
+    "source": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "secondSource": "https://as.com/us/futbol/cristiano-ronaldo-alcanza-los-600-millones-de-seguidores-en-instagram-n/",
+    "asOf": "2023-08-11"
+  },
+  {
+    "id": "switch-sales-mario-kart-animal-crossing",
+    "first": {
+      "name": "Mario Kart 8 Deluxe",
+      "imageKey": "mario-kart",
+      "value": 68200000
+    },
+    "second": {
+      "name": "Animal Crossing: New Horizons",
+      "imageKey": "animal-crossing",
+      "value": 47820000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Animal Crossing: New Horizons vendió más o menos de 68,2 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-mario-kart-smash-bros",
+    "first": {
+      "name": "Mario Kart 8 Deluxe",
+      "imageKey": "mario-kart",
+      "value": 68200000
+    },
+    "second": {
+      "name": "Super Smash Bros. Ultimate",
+      "imageKey": "smash-bros",
+      "value": 36240000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Super Smash Bros. Ultimate vendió más o menos de 68,2 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-mario-kart-mario-wonder",
+    "first": {
+      "name": "Mario Kart 8 Deluxe",
+      "imageKey": "mario-kart",
+      "value": 68200000
+    },
+    "second": {
+      "name": "Super Mario Bros. Wonder",
+      "imageKey": "mario-wonder",
+      "value": 16030000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Super Mario Bros. Wonder vendió más o menos de 68,2 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-mario-kart-switch-sports",
+    "first": {
+      "name": "Mario Kart 8 Deluxe",
+      "imageKey": "mario-kart",
+      "value": 68200000
+    },
+    "second": {
+      "name": "Nintendo Switch Sports",
+      "imageKey": "switch-sports",
+      "value": 16270000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Nintendo Switch Sports vendió más o menos de 68,2 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-animal-crossing-smash-bros",
+    "first": {
+      "name": "Animal Crossing: New Horizons",
+      "imageKey": "animal-crossing",
+      "value": 47820000
+    },
+    "second": {
+      "name": "Super Smash Bros. Ultimate",
+      "imageKey": "smash-bros",
+      "value": 36240000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Super Smash Bros. Ultimate vendió más o menos de 47,82 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-animal-crossing-mario-wonder",
+    "first": {
+      "name": "Animal Crossing: New Horizons",
+      "imageKey": "animal-crossing",
+      "value": 47820000
+    },
+    "second": {
+      "name": "Super Mario Bros. Wonder",
+      "imageKey": "mario-wonder",
+      "value": 16030000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Super Mario Bros. Wonder vendió más o menos de 47,82 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-animal-crossing-switch-sports",
+    "first": {
+      "name": "Animal Crossing: New Horizons",
+      "imageKey": "animal-crossing",
+      "value": 47820000
+    },
+    "second": {
+      "name": "Nintendo Switch Sports",
+      "imageKey": "switch-sports",
+      "value": 16270000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Nintendo Switch Sports vendió más o menos de 47,82 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-smash-bros-mario-wonder",
+    "first": {
+      "name": "Super Smash Bros. Ultimate",
+      "imageKey": "smash-bros",
+      "value": 36240000
+    },
+    "second": {
+      "name": "Super Mario Bros. Wonder",
+      "imageKey": "mario-wonder",
+      "value": 16030000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Super Mario Bros. Wonder vendió más o menos de 36,24 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-smash-bros-switch-sports",
+    "first": {
+      "name": "Super Smash Bros. Ultimate",
+      "imageKey": "smash-bros",
+      "value": 36240000
+    },
+    "second": {
+      "name": "Nintendo Switch Sports",
+      "imageKey": "switch-sports",
+      "value": 16270000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Nintendo Switch Sports vendió más o menos de 36,24 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "switch-sales-mario-wonder-switch-sports",
+    "first": {
+      "name": "Super Mario Bros. Wonder",
+      "imageKey": "mario-wonder",
+      "value": 16030000
+    },
+    "second": {
+      "name": "Nintendo Switch Sports",
+      "imageKey": "switch-sports",
+      "value": 16270000
+    },
+    "topic": "Copias vendidas en Nintendo Switch",
+    "unit": "copias vendidas",
+    "question": "¿Nintendo Switch Sports vendió más o menos de 16,03 M copias en Nintendo Switch?",
+    "source": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "secondSource": "https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf",
+    "asOf": "2025-03-31"
+  },
+  {
+    "id": "world-cup-titles-brazil-argentina",
+    "first": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 5
+    },
+    "second": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 3
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Argentina ganó más o menos de 5 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "world-cup-titles-brazil-germany",
+    "first": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 5
+    },
+    "second": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 4
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Alemania ganó más o menos de 5 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "world-cup-titles-brazil-france",
+    "first": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 5
+    },
+    "second": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 2
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Francia ganó más o menos de 5 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "world-cup-titles-argentina-germany",
+    "first": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 3
+    },
+    "second": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 4
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Alemania ganó más o menos de 3 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "world-cup-titles-argentina-france",
+    "first": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 3
+    },
+    "second": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 2
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Francia ganó más o menos de 3 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "world-cup-titles-germany-france",
+    "first": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 4
+    },
+    "second": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 2
+    },
+    "topic": "Copas Mundiales masculinas ganadas",
+    "unit": "Mundiales ganados",
+    "question": "¿Francia ganó más o menos de 4 Copas Mundiales masculinas?",
+    "source": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "secondSource": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/equipos-con-mas-copas-mundiales",
+    "asOf": "2022-12-18"
+  },
+  {
+    "id": "oscar-wins-oppenheimer-barbie",
+    "first": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 7
+    },
+    "second": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 1
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Barbie» ganó más o menos de 7 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-oppenheimer-the-zone-of-interest",
+    "first": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 7
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 2
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Zona de interés» ganó más o menos de 7 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-oppenheimer-poor-things",
+    "first": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 7
+    },
+    "second": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 4
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Pobres criaturas» ganó más o menos de 7 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-oppenheimer-the-holdovers",
+    "first": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 7
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 1
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Los que se quedan» ganó más o menos de 7 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-barbie-the-zone-of-interest",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 1
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 2
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Zona de interés» ganó más o menos de un premio Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-barbie-poor-things",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 1
+    },
+    "second": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 4
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Pobres criaturas» ganó más o menos de un premio Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-barbie-the-holdovers",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 1
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 1
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Los que se quedan» ganó más o menos de un premio Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-the-zone-of-interest-poor-things",
+    "first": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 2
+    },
+    "second": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 4
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Pobres criaturas» ganó más o menos de 2 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-the-zone-of-interest-the-holdovers",
+    "first": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 2
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 1
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Los que se quedan» ganó más o menos de 2 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-wins-poor-things-the-holdovers",
+    "first": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 4
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 1
+    },
+    "topic": "Premios Óscar ganados en 2024",
+    "unit": "premios Óscar en 2024",
+    "question": "¿«Los que se quedan» ganó más o menos de 4 premios Óscar?",
+    "source": "https://www.oscars.org/oscars/ceremonies/2024",
+    "secondSource": "https://www.oscars.org/oscars/ceremonies/2024",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-barbie-poor-things",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 8
+    },
+    "second": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 11
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Pobres criaturas» recibió más o menos de 8 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-barbie-the-holdovers",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 8
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Los que se quedan» recibió más o menos de 8 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-barbie-oppenheimer",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 8
+    },
+    "second": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 13
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Oppenheimer» recibió más o menos de 8 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-barbie-the-zone-of-interest",
+    "first": {
+      "name": "Barbie",
+      "imageKey": "barbie",
+      "value": 8
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Zona de interés» recibió más o menos de 8 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-poor-things-the-holdovers",
+    "first": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 11
+    },
+    "second": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Los que se quedan» recibió más o menos de 11 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-poor-things-oppenheimer",
+    "first": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 11
+    },
+    "second": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 13
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Oppenheimer» recibió más o menos de 11 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-poor-things-the-zone-of-interest",
+    "first": {
+      "name": "Pobres criaturas",
+      "imageKey": "poor-things",
+      "value": 11
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Zona de interés» recibió más o menos de 11 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-the-holdovers-oppenheimer",
+    "first": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 5
+    },
+    "second": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 13
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Oppenheimer» recibió más o menos de 5 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-the-holdovers-the-zone-of-interest",
+    "first": {
+      "name": "Los que se quedan",
+      "imageKey": "the-holdovers",
+      "value": 5
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Zona de interés» recibió más o menos de 5 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "oscar-nominations-oppenheimer-the-zone-of-interest",
+    "first": {
+      "name": "Oppenheimer",
+      "imageKey": "oppenheimer",
+      "value": 13
+    },
+    "second": {
+      "name": "Zona de interés",
+      "imageKey": "the-zone-of-interest",
+      "value": 5
+    },
+    "topic": "Nominaciones al Óscar en 2024",
+    "unit": "nominaciones al Óscar en 2024",
+    "question": "¿«Zona de interés» recibió más o menos de 13 nominaciones al Óscar?",
+    "source": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "secondSource": "https://press.oscars.org/news/96th-oscarsr-nominations-announced",
+    "asOf": "2024"
+  },
+  {
+    "id": "grammys-beyonce-taylor-swift",
+    "first": {
+      "name": "Beyoncé",
+      "imageKey": "beyonce",
+      "value": 35
+    },
+    "second": {
+      "name": "Taylor Swift",
+      "imageKey": "taylor-swift",
+      "value": 14
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Taylor Swift ganó más o menos de 35 premios Grammy?",
+    "source": "https://www.grammy.com/artists/beyonce-knowles/12474/",
+    "secondSource": "https://www.grammy.com/artists/taylor-swift/15450/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-beyonce-adele",
+    "first": {
+      "name": "Beyoncé",
+      "imageKey": "beyonce",
+      "value": 35
+    },
+    "second": {
+      "name": "Adele",
+      "imageKey": "adele",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Adele ganó más o menos de 35 premios Grammy?",
+    "source": "https://www.grammy.com/artists/beyonce-knowles/12474/",
+    "secondSource": "https://www.grammy.com/artists/adele/528/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-beyonce-billie-eilish",
+    "first": {
+      "name": "Beyoncé",
+      "imageKey": "beyonce",
+      "value": 35
+    },
+    "second": {
+      "name": "Billie Eilish",
+      "imageKey": "billie-eilish",
+      "value": 10
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Billie Eilish ganó más o menos de 35 premios Grammy?",
+    "source": "https://www.grammy.com/artists/beyonce-knowles/12474/",
+    "secondSource": "https://www.grammy.com/artists/billie-eilish/251741/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-beyonce-bruno-mars",
+    "first": {
+      "name": "Beyoncé",
+      "imageKey": "beyonce",
+      "value": 35
+    },
+    "second": {
+      "name": "Bruno Mars",
+      "imageKey": "bruno-mars",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Bruno Mars ganó más o menos de 35 premios Grammy?",
+    "source": "https://www.grammy.com/artists/beyonce-knowles/12474/",
+    "secondSource": "https://www.grammy.com/artists/bruno-mars/5082/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-taylor-swift-adele",
+    "first": {
+      "name": "Taylor Swift",
+      "imageKey": "taylor-swift",
+      "value": 14
+    },
+    "second": {
+      "name": "Adele",
+      "imageKey": "adele",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Adele ganó más o menos de 14 premios Grammy?",
+    "source": "https://www.grammy.com/artists/taylor-swift/15450/",
+    "secondSource": "https://www.grammy.com/artists/adele/528/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-taylor-swift-billie-eilish",
+    "first": {
+      "name": "Taylor Swift",
+      "imageKey": "taylor-swift",
+      "value": 14
+    },
+    "second": {
+      "name": "Billie Eilish",
+      "imageKey": "billie-eilish",
+      "value": 10
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Billie Eilish ganó más o menos de 14 premios Grammy?",
+    "source": "https://www.grammy.com/artists/taylor-swift/15450/",
+    "secondSource": "https://www.grammy.com/artists/billie-eilish/251741/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-taylor-swift-bruno-mars",
+    "first": {
+      "name": "Taylor Swift",
+      "imageKey": "taylor-swift",
+      "value": 14
+    },
+    "second": {
+      "name": "Bruno Mars",
+      "imageKey": "bruno-mars",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Bruno Mars ganó más o menos de 14 premios Grammy?",
+    "source": "https://www.grammy.com/artists/taylor-swift/15450/",
+    "secondSource": "https://www.grammy.com/artists/bruno-mars/5082/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-adele-billie-eilish",
+    "first": {
+      "name": "Adele",
+      "imageKey": "adele",
+      "value": 16
+    },
+    "second": {
+      "name": "Billie Eilish",
+      "imageKey": "billie-eilish",
+      "value": 10
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Billie Eilish ganó más o menos de 16 premios Grammy?",
+    "source": "https://www.grammy.com/artists/adele/528/",
+    "secondSource": "https://www.grammy.com/artists/billie-eilish/251741/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-adele-bruno-mars",
+    "first": {
+      "name": "Adele",
+      "imageKey": "adele",
+      "value": 16
+    },
+    "second": {
+      "name": "Bruno Mars",
+      "imageKey": "bruno-mars",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Bruno Mars ganó más o menos de 16 premios Grammy?",
+    "source": "https://www.grammy.com/artists/adele/528/",
+    "secondSource": "https://www.grammy.com/artists/bruno-mars/5082/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "grammys-billie-eilish-bruno-mars",
+    "first": {
+      "name": "Billie Eilish",
+      "imageKey": "billie-eilish",
+      "value": 10
+    },
+    "second": {
+      "name": "Bruno Mars",
+      "imageKey": "bruno-mars",
+      "value": 16
+    },
+    "topic": "Premios Grammy ganados",
+    "unit": "premios Grammy",
+    "question": "¿Bruno Mars ganó más o menos de 10 premios Grammy?",
+    "source": "https://www.grammy.com/artists/billie-eilish/251741/",
+    "secondSource": "https://www.grammy.com/artists/bruno-mars/5082/",
+    "asOf": "2026-02-01"
+  },
+  {
+    "id": "pokemon-weight-pikachu-charizard",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Charizard pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0006/"
+  },
+  {
+    "id": "pokemon-weight-pikachu-gengar",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Gengar pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0094/"
+  },
+  {
+    "id": "pokemon-weight-pikachu-dragonite",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Dragonite pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0149/"
+  },
+  {
+    "id": "pokemon-weight-pikachu-snorlax",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Snorlax pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-weight-pikachu-eevee",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Eevee pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0133/"
+  },
+  {
+    "id": "pokemon-weight-pikachu-mewtwo",
+    "first": {
+      "name": "Pikachu",
+      "imageKey": "pikachu",
+      "value": 6
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 6 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0025/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-weight-charizard-gengar",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "second": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Gengar pesa más o menos de 90,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0094/"
+  },
+  {
+    "id": "pokemon-weight-charizard-dragonite",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "second": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Dragonite pesa más o menos de 90,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0149/"
+  },
+  {
+    "id": "pokemon-weight-charizard-snorlax",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Snorlax pesa más o menos de 90,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-weight-charizard-eevee",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "second": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Eevee pesa más o menos de 90,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0133/"
+  },
+  {
+    "id": "pokemon-weight-charizard-mewtwo",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 90.5
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 90,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-weight-gengar-dragonite",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "second": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Dragonite pesa más o menos de 40,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0149/"
+  },
+  {
+    "id": "pokemon-weight-gengar-snorlax",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Snorlax pesa más o menos de 40,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-weight-gengar-eevee",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "second": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Eevee pesa más o menos de 40,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0133/"
+  },
+  {
+    "id": "pokemon-weight-gengar-mewtwo",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 40.5
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 40,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-weight-dragonite-snorlax",
+    "first": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Snorlax pesa más o menos de 210 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0149/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-weight-dragonite-eevee",
+    "first": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "second": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Eevee pesa más o menos de 210 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0149/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0133/"
+  },
+  {
+    "id": "pokemon-weight-dragonite-mewtwo",
+    "first": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 210
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 210 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0149/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-weight-snorlax-eevee",
+    "first": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "second": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Eevee pesa más o menos de 460 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0143/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0133/"
+  },
+  {
+    "id": "pokemon-weight-snorlax-mewtwo",
+    "first": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 460
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 460 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0143/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-weight-eevee-mewtwo",
+    "first": {
+      "name": "Eevee",
+      "imageKey": "eevee",
+      "value": 6.5
+    },
+    "second": {
+      "name": "Mewtwo",
+      "imageKey": "mewtwo",
+      "value": 122
+    },
+    "topic": "Peso según la Pokédex",
+    "unit": "kg según la Pokédex",
+    "question": "¿Mewtwo pesa más o menos de 6,5 kg?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0133/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0150/"
+  },
+  {
+    "id": "pokemon-height-charizard-gengar",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 170
+    },
+    "second": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 150
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Gengar mide más o menos de 170 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0094/"
+  },
+  {
+    "id": "pokemon-height-charizard-dragonite",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 170
+    },
+    "second": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 220
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Dragonite mide más o menos de 170 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0149/"
+  },
+  {
+    "id": "pokemon-height-charizard-snorlax",
+    "first": {
+      "name": "Charizard",
+      "imageKey": "charizard",
+      "value": 170
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 210
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Snorlax mide más o menos de 170 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0006/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-height-gengar-dragonite",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 150
+    },
+    "second": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 220
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Dragonite mide más o menos de 150 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0149/"
+  },
+  {
+    "id": "pokemon-height-gengar-snorlax",
+    "first": {
+      "name": "Gengar",
+      "imageKey": "gengar",
+      "value": 150
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 210
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Snorlax mide más o menos de 150 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0094/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "pokemon-height-dragonite-snorlax",
+    "first": {
+      "name": "Dragonite",
+      "imageKey": "dragonite",
+      "value": 220
+    },
+    "second": {
+      "name": "Snorlax",
+      "imageKey": "snorlax",
+      "value": 210
+    },
+    "topic": "Altura según la Pokédex",
+    "unit": "cm según la Pokédex",
+    "question": "¿Snorlax mide más o menos de 220 cm?",
+    "source": "https://sg.portal-pokemon.com/pokedex/0149/",
+    "secondSource": "https://sg.portal-pokemon.com/pokedex/0143/"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-mars",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Marte tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-venus",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Venus tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-earth",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Tierra tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-neptune",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Neptuno tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-uranus",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Urano tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-saturn",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mercury-planet-jupiter",
+    "first": {
+      "name": "Mercurio",
+      "imageKey": "planet-mercury",
+      "value": 4880
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 4.880 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-venus",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Venus tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-earth",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Tierra tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-neptune",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Neptuno tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-uranus",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Urano tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-saturn",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-mars-planet-jupiter",
+    "first": {
+      "name": "Marte",
+      "imageKey": "planet-mars",
+      "value": 6792
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 6.792 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-venus-planet-earth",
+    "first": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "second": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Tierra tiene un diámetro ecuatorial mayor o menor que 12.104 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-venus-planet-neptune",
+    "first": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "second": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Neptuno tiene un diámetro ecuatorial mayor o menor que 12.104 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-venus-planet-uranus",
+    "first": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "second": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Urano tiene un diámetro ecuatorial mayor o menor que 12.104 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-venus-planet-saturn",
+    "first": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 12.104 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-venus-planet-jupiter",
+    "first": {
+      "name": "Venus",
+      "imageKey": "planet-venus",
+      "value": 12104
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 12.104 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-earth-planet-neptune",
+    "first": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "second": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Neptuno tiene un diámetro ecuatorial mayor o menor que 12.756 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-earth-planet-uranus",
+    "first": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "second": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Urano tiene un diámetro ecuatorial mayor o menor que 12.756 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-earth-planet-saturn",
+    "first": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 12.756 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-earth-planet-jupiter",
+    "first": {
+      "name": "Tierra",
+      "imageKey": "planet-earth",
+      "value": 12756
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 12.756 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-neptune-planet-uranus",
+    "first": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "second": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Urano tiene un diámetro ecuatorial mayor o menor que 49.528 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-neptune-planet-saturn",
+    "first": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 49.528 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-neptune-planet-jupiter",
+    "first": {
+      "name": "Neptuno",
+      "imageKey": "planet-neptune",
+      "value": 49528
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 49.528 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-uranus-planet-saturn",
+    "first": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "second": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Saturno tiene un diámetro ecuatorial mayor o menor que 51.118 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-uranus-planet-jupiter",
+    "first": {
+      "name": "Urano",
+      "imageKey": "planet-uranus",
+      "value": 51118
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 51.118 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "planet-diameter-planet-saturn-planet-jupiter",
+    "first": {
+      "name": "Saturno",
+      "imageKey": "planet-saturn",
+      "value": 120536
+    },
+    "second": {
+      "name": "Júpiter",
+      "imageKey": "planet-jupiter",
+      "value": 142984
+    },
+    "topic": "Diámetro ecuatorial aproximado de los planetas",
+    "unit": "km de diámetro ecuatorial",
+    "question": "¿Júpiter tiene un diámetro ecuatorial mayor o menor que 120.536 km?",
+    "source": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "secondSource": "https://science.nasa.gov/solar-system/planets/planet-sizes-and-locations-in-our-solar-system/",
+    "asOf": "2025-04-22"
+  },
+  {
+    "id": "population-argentina-brazil",
+    "first": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 45696000
+    },
+    "second": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 211999000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Brasil tenía más o menos de 45,696 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  },
+  {
+    "id": "population-argentina-france",
+    "first": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 45696000
+    },
+    "second": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 68552000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Francia tenía más o menos de 45,696 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  },
+  {
+    "id": "population-argentina-germany",
+    "first": {
+      "name": "Argentina",
+      "imageKey": "argentina",
+      "value": 45696000
+    },
+    "second": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 83517000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Alemania tenía más o menos de 45,696 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  },
+  {
+    "id": "population-brazil-france",
+    "first": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 211999000
+    },
+    "second": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 68552000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Francia tenía más o menos de 211,999 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  },
+  {
+    "id": "population-brazil-germany",
+    "first": {
+      "name": "Brasil",
+      "imageKey": "brazil",
+      "value": 211999000
+    },
+    "second": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 83517000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Alemania tenía más o menos de 211,999 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  },
+  {
+    "id": "population-france-germany",
+    "first": {
+      "name": "Francia",
+      "imageKey": "france",
+      "value": 68552000
+    },
+    "second": {
+      "name": "Alemania",
+      "imageKey": "germany",
+      "value": 83517000
+    },
+    "topic": "Población estimada en 2024",
+    "unit": "habitantes",
+    "question": "¿Alemania tenía más o menos de 68,552 M habitantes en 2024?",
+    "source": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "secondSource": "https://datacatalogfiles.worldbank.org/ddh-published/0038126/DR0046429/POP.pdf",
+    "asOf": "2024"
+  }
+]

@@ -1,0 +1,1556 @@
+[
+  {
+    "kind": "general",
+    "id": "general-marte",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué planeta es conocido como el planeta rojo?",
+    "hint": "Es el cuarto planeta desde el Sol.",
+    "answer": "Marte"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-tema",
+    "eyebrow": "TEMA",
+    "prompt": "Nombrá un tema y digan cosas que pertenezcan a él."
+  },
+  {
+    "kind": "general",
+    "id": "general-pacifico",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el océano más grande del mundo?",
+    "hint": "Baña la costa oeste de América.",
+    "answer": "El océano Pacífico"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-animales",
+    "eyebrow": "ANIMALES",
+    "prompt": "Nombrá un animal. Sigan con otro, sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-triangulo",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos lados tiene un triángulo?",
+    "hint": "Su nombre empieza con «tri».",
+    "answer": "Tres"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-frutas",
+    "eyebrow": "FRUTAS",
+    "prompt": "Nombrá una fruta. Sigan con una distinta."
+  },
+  {
+    "kind": "general",
+    "id": "general-tokio",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Japón?",
+    "hint": "Su nombre empieza con T.",
+    "answer": "Tokio"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-paises",
+    "eyebrow": "PAISES",
+    "prompt": "Nombrá un país. Sigan la ronda sin repetir ninguno."
+  },
+  {
+    "kind": "general",
+    "id": "general-luna",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama el satélite natural de la Tierra?",
+    "hint": "Puede verse llena, creciente o menguante.",
+    "answer": "La Luna"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-ciudades",
+    "eyebrow": "CIUDADES",
+    "prompt": "Nombrá una ciudad. Sigan con una diferente."
+  },
+  {
+    "kind": "general",
+    "id": "general-minutos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos minutos tiene una hora?",
+    "hint": "Es la misma cantidad de segundos que tiene un minuto.",
+    "answer": "Sesenta"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-deportes",
+    "eyebrow": "DEPORTES",
+    "prompt": "Nombrá un deporte. Los demás deberán continuar sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-agua",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la fórmula química del agua?",
+    "hint": "Tiene dos átomos de hidrógeno y uno de oxígeno.",
+    "answer": "H₂O"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-instrumentos",
+    "eyebrow": "INSTRUMENTOS",
+    "prompt": "Nombrá un instrumento musical. Sigan con otro."
+  },
+  {
+    "kind": "general",
+    "id": "general-jupiter",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el planeta más grande del sistema solar?",
+    "hint": "Es un gigante gaseoso y tiene una Gran Mancha Roja.",
+    "answer": "Júpiter"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-profesiones",
+    "eyebrow": "PROFESIONES",
+    "prompt": "Nombrá una profesión. Sigan nombrando profesiones sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-fotosintesis",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama el proceso por el que las plantas usan la luz para producir su alimento?",
+    "hint": "Su nombre empieza con «foto».",
+    "answer": "Fotosíntesis"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-colores",
+    "eyebrow": "COLORES",
+    "prompt": "Nombrá un color. Sigan con colores sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-hexagono",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos lados tiene un hexágono?",
+    "hint": "Es uno más que un pentágono.",
+    "answer": "Seis"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-peliculas",
+    "eyebrow": "PELICULAS",
+    "prompt": "Nombrá una película. Sigan con títulos diferentes."
+  },
+  {
+    "kind": "general",
+    "id": "general-bisiesto",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos días tiene un año bisiesto?",
+    "hint": "Febrero tiene un día más que de costumbre.",
+    "answer": "366 días"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-comidas",
+    "eyebrow": "COMIDAS",
+    "prompt": "Nombrá una comida. Sigan la ronda con un plato distinto cada uno."
+  },
+  {
+    "kind": "general",
+    "id": "general-mercurio",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué planeta está más cerca del Sol?",
+    "hint": "Comparte nombre con un elemento químico.",
+    "answer": "Mercurio"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-ropa",
+    "eyebrow": "ROPA",
+    "prompt": "Nombrá una prenda de vestir. Los demás deberán seguir sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-ballena-azul",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el animal más grande que vive en la Tierra?",
+    "hint": "Es un mamífero marino y su nombre incluye un color.",
+    "answer": "La ballena azul"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-transporte",
+    "eyebrow": "TRANSPORTE",
+    "prompt": "Nombrá un medio de transporte. Sigan con otro."
+  },
+  {
+    "kind": "general",
+    "id": "general-corazon",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué órgano bombea la sangre por el cuerpo?",
+    "hint": "Podés sentir sus latidos.",
+    "answer": "El corazón"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cocina",
+    "eyebrow": "COCINA",
+    "prompt": "Nombrá un objeto de cocina. Sigan con uno distinto."
+  },
+  {
+    "kind": "general",
+    "id": "general-nueve-por-nueve",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuánto es nueve por nueve?",
+    "hint": "Es uno más que ochenta.",
+    "answer": "81"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-personajes",
+    "eyebrow": "PERSONAJES",
+    "prompt": "Nombrá un personaje de ficción. Sigan sin repetir personajes."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-bolivia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital constitucional de Bolivia?",
+    "hint": "Allí se encuentra la Casa de la Libertad.",
+    "answer": "Sucre"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-lugares-scz",
+    "eyebrow": "LUGARES SCZ",
+    "prompt": "Nombrá un lugar conocido de Santa Cruz de la Sierra. Sigan sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-sede-gobierno-bolivia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué ciudad está la sede del gobierno de Bolivia?",
+    "hint": "Es una ciudad situada a gran altura en los Andes.",
+    "answer": "La Paz"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-barrios-scz",
+    "eyebrow": "BARRIOS SCZ",
+    "prompt": "Nombrá un barrio o zona de Santa Cruz. Cada persona agrega uno distinto."
+  },
+  {
+    "kind": "general",
+    "id": "general-departamentos-bolivia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos departamentos tiene Bolivia?",
+    "hint": "Santa Cruz es uno de ellos.",
+    "answer": "Nueve"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-municipios-scz",
+    "eyebrow": "MUNICIPIOS SCZ",
+    "prompt": "Nombrá un municipio del departamento de Santa Cruz. No vale repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-moneda-bolivia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama la moneda oficial de Bolivia?",
+    "hint": "Su nombre también aparece en el gentilicio de sus habitantes.",
+    "answer": "El boliviano"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-comida-cruceña",
+    "eyebrow": "COMIDA CRUCEÑA",
+    "prompt": "Nombrá una comida típica cruceña. Sigan con otra distinta."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-santa-cruz",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital del departamento de Santa Cruz?",
+    "hint": "También se la conoce como la capital oriental de Bolivia.",
+    "answer": "Santa Cruz de la Sierra"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-frutas-oriente",
+    "eyebrow": "FRUTAS ORIENTE",
+    "prompt": "Nombrá una fruta que se consiga en el oriente boliviano. Sigan sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-samaipata",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué sitio arqueológico de Santa Cruz es Patrimonio Mundial de la UNESCO?",
+    "hint": "Está en los valles cruceños, cerca del municipio de Samaipata.",
+    "answer": "El Fuerte de Samaipata"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-rios-bolivia",
+    "eyebrow": "RIOS BOLIVIA",
+    "prompt": "Nombrá un río de Bolivia. Cada persona dice uno diferente."
+  },
+  {
+    "kind": "general",
+    "id": "general-misiones-chiquitos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué conjunto patrimonial del oriente boliviano conserva templos de madera y música barroca?",
+    "hint": "Seis poblaciones forman parte de este patrimonio vivo.",
+    "answer": "Las Misiones Jesuíticas de Chiquitos"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-departamentos-bo",
+    "eyebrow": "DEPARTAMENTOS BO",
+    "prompt": "Nombrá uno de los departamentos de Bolivia. No repitan."
+  },
+  {
+    "kind": "general",
+    "id": "general-parque-noel-kempff",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué parque nacional cruceño fue declarado Patrimonio Mundial natural?",
+    "hint": "Está en el noreste del departamento de Santa Cruz.",
+    "answer": "El Parque Nacional Noel Kempff Mercado"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-capitales-bo",
+    "eyebrow": "CAPITALES BO",
+    "prompt": "Nombrá una capital de departamento de Bolivia."
+  },
+  {
+    "kind": "general",
+    "id": "general-rio-pirai",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué río pasa junto a Santa Cruz de la Sierra?",
+    "hint": "Su nombre también identifica una provincia cruceña.",
+    "answer": "El río Piraí"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-fiestas-bolivia",
+    "eyebrow": "FIESTAS BOLIVIA",
+    "prompt": "Nombrá una fiesta o celebración tradicional de Bolivia."
+  },
+  {
+    "kind": "general",
+    "id": "general-plaza-24-septiembre",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama la plaza principal del centro de Santa Cruz de la Sierra?",
+    "hint": "Su nombre recuerda una fecha clave de la historia cruceña.",
+    "answer": "Plaza 24 de Septiembre"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-musica-bolivia",
+    "eyebrow": "MUSICA BOLIVIA",
+    "prompt": "Nombrá un ritmo o género musical boliviano."
+  },
+  {
+    "kind": "general",
+    "id": "general-camba",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué palabra se usa comúnmente para referirse a una persona del oriente boliviano?",
+    "hint": "Es una identidad regional muy asociada a Santa Cruz.",
+    "answer": "Camba"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-animales-pantanal",
+    "eyebrow": "ANIMALES PANTANAL",
+    "prompt": "Nombrá un animal que viva en el Pantanal boliviano."
+  },
+  {
+    "kind": "general",
+    "id": "general-majao",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama el plato cruceño de arroz con charque, acompañado a menudo con huevo y plátano?",
+    "hint": "Su nombre suele escribirse también «majau».",
+    "answer": "Majao"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-parques-bo",
+    "eyebrow": "PARQUES BO",
+    "prompt": "Nombrá un parque nacional o área protegida de Bolivia."
+  },
+  {
+    "kind": "general",
+    "id": "general-sonso",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué comida típica cruceña se prepara con yuca y queso?",
+    "hint": "Se asa en palo o se cocina al horno.",
+    "answer": "Sonso"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-palabras-cambas",
+    "eyebrow": "PALABRAS CAMBAS",
+    "prompt": "Digan palabras o expresiones que se escuchan en Santa Cruz, sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-cuñape",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama el panecillo oriental boliviano hecho principalmente con almidón de yuca y queso?",
+    "hint": "Es pequeño, redondo y muy popular en Santa Cruz.",
+    "answer": "Cuñapé"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-mercados-scz",
+    "eyebrow": "MERCADOS SCZ",
+    "prompt": "Nombrá algo que podrías comprar en un mercado cruceño."
+  },
+  {
+    "kind": "general",
+    "id": "general-tajibo",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué árbol de flores vistosas es uno de los símbolos naturales más conocidos de Santa Cruz?",
+    "hint": "Florece en tonos como amarillo, rosado y morado.",
+    "answer": "El tajibo"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-lugares-turismo-bo",
+    "eyebrow": "LUGARES TURISMO BO",
+    "prompt": "Nombrá un destino turístico de Bolivia."
+  },
+  {
+    "kind": "general",
+    "id": "general-salar-uyuni",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué departamento boliviano se encuentra el mayor salar del mundo?",
+    "hint": "Está en el departamento de Potosí.",
+    "answer": "Potosí"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-platos-bolivia",
+    "eyebrow": "PLATOS BOLIVIA",
+    "prompt": "Nombrá un plato típico boliviano, sin repetir."
+  },
+  {
+    "kind": "general",
+    "id": "general-lago-titicaca",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué lago comparten Bolivia y Perú?",
+    "hint": "Es uno de los lagos navegables más altos del mundo.",
+    "answer": "El lago Titicaca"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-paises-sudamerica",
+    "eyebrow": "PAISES SUDAMERICA",
+    "prompt": "Nombrá un país de Sudamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-carnaval-oruro",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué celebración boliviana es famosa por la Diablada y está reconocida por la UNESCO?",
+    "hint": "Se celebra en una ciudad minera del altiplano.",
+    "answer": "El Carnaval de Oruro"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-capitales-sudamerica",
+    "eyebrow": "CAPITALES SUDAMERICA",
+    "prompt": "Nombrá una capital sudamericana."
+  },
+  {
+    "kind": "general",
+    "id": "general-alasita",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué fiesta boliviana se compran miniaturas para pedir prosperidad?",
+    "hint": "El Ekeko es una figura central de esta tradición paceña.",
+    "answer": "La Alasita"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-banderas-latam",
+    "eyebrow": "BANDERAS LATAM",
+    "prompt": "Nombrá un país latinoamericano y describí un color de su bandera."
+  },
+  {
+    "kind": "general",
+    "id": "general-tiwanaku",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué antiguo centro arqueológico está cerca del lago Titicaca, en Bolivia?",
+    "hint": "Su Puerta del Sol es muy conocida.",
+    "answer": "Tiwanaku"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-comidas-latam",
+    "eyebrow": "COMIDAS LATAM",
+    "prompt": "Nombrá un plato típico de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-salteña",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama la empanada boliviana jugosa que suele comerse a media mañana?",
+    "hint": "Puede tener carne o pollo y un relleno caldoso.",
+    "answer": "Salteña"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-bebidas-latam",
+    "eyebrow": "BEBIDAS LATAM",
+    "prompt": "Nombrá una bebida tradicional de algún país latinoamericano."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-argentina",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Argentina?",
+    "hint": "Es conocida por el tango y el Obelisco.",
+    "answer": "Buenos Aires"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cantantes-latam",
+    "eyebrow": "CANTANTES LATAM",
+    "prompt": "Nombrá un cantante o una cantante latinoamericana."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-brasil",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Brasil?",
+    "hint": "Fue construida y planificada como nueva capital en el siglo XX.",
+    "answer": "Brasilia"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-escritores-latam",
+    "eyebrow": "ESCRITORES LATAM",
+    "prompt": "Nombrá un escritor o escritora de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-idioma-brasil",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el idioma oficial de Brasil?",
+    "hint": "Es una lengua romance, pero no es el español.",
+    "answer": "Portugués"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-bailes-latam",
+    "eyebrow": "BAILES LATAM",
+    "prompt": "Nombrá un baile o ritmo latinoamericano."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-chile",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Chile?",
+    "hint": "Está en un valle rodeado por la cordillera de los Andes.",
+    "answer": "Santiago"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-monumentos-latam",
+    "eyebrow": "MONUMENTOS LATAM",
+    "prompt": "Nombrá un sitio arqueológico o monumento de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-peru",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Perú?",
+    "hint": "Es una ciudad costera frente al océano Pacífico.",
+    "answer": "Lima"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-rios-latam",
+    "eyebrow": "RIOS LATAM",
+    "prompt": "Nombrá un río de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-machu-picchu",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país se encuentra Machu Picchu?",
+    "hint": "La antigua ciudad inca está en la región de Cusco.",
+    "answer": "Perú"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-animales-latam",
+    "eyebrow": "ANIMALES LATAM",
+    "prompt": "Nombrá un animal nativo de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-iguazu",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué famosas cataratas se encuentran entre Argentina y Brasil?",
+    "hint": "El río que les da nombre forma parte de la frontera.",
+    "answer": "Las cataratas del Iguazú"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-equipos-futbol-latam",
+    "eyebrow": "EQUIPOS FUTBOL LATAM",
+    "prompt": "Nombrá un club de fútbol de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-galapagos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿A qué país pertenecen las islas Galápagos?",
+    "hint": "Su territorio continental está sobre la línea ecuatorial.",
+    "answer": "Ecuador"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-mundiales",
+    "eyebrow": "MUNDIALES",
+    "prompt": "Nombrá un país que haya ganado una Copa Mundial masculina de fútbol."
+  },
+  {
+    "kind": "general",
+    "id": "general-atacama",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país se encuentra el desierto de Atacama?",
+    "hint": "Es un territorio muy árido junto al océano Pacífico.",
+    "answer": "Chile"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-frutas-latam",
+    "eyebrow": "FRUTAS LATAM",
+    "prompt": "Nombrá una fruta originaria o muy popular en Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-canal-panama",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué canal conecta el océano Atlántico con el Pacífico a través de Centroamérica?",
+    "hint": "Cruza el país que lleva su nombre.",
+    "answer": "El canal de Panamá"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-palabras-prestadas",
+    "eyebrow": "PALABRAS PRESTADAS",
+    "prompt": "Digan palabras del español que vienen de lenguas indígenas americanas."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-colombia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Colombia?",
+    "hint": "Está en una meseta de la cordillera Oriental.",
+    "answer": "Bogotá"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-islas-latam",
+    "eyebrow": "ISLAS LATAM",
+    "prompt": "Nombrá una isla del Caribe o de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-mexico",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de México?",
+    "hint": "Es una de las ciudades más pobladas de América.",
+    "answer": "Ciudad de México"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-volcanes-latam",
+    "eyebrow": "VOLCANES LATAM",
+    "prompt": "Nombrá un volcán de Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-uruguay",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Uruguay?",
+    "hint": "Se encuentra a orillas del Río de la Plata.",
+    "answer": "Montevideo"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-artistas-latam",
+    "eyebrow": "ARTISTAS LATAM",
+    "prompt": "Nombrá una artista visual latinoamericana."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-paraguay",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Paraguay?",
+    "hint": "Está junto al río Paraguay.",
+    "answer": "Asunción"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-literatura-latam",
+    "eyebrow": "LITERATURA LATAM",
+    "prompt": "Nombrá una novela latinoamericana conocida."
+  },
+  {
+    "kind": "general",
+    "id": "general-tango",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué género musical y baile rioplatense se asocia especialmente con Argentina y Uruguay?",
+    "hint": "Carlos Gardel es una de sus figuras históricas más conocidas.",
+    "answer": "El tango"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-inventos-latam",
+    "eyebrow": "INVENTOS LATAM",
+    "prompt": "Nombrá un invento o aporte científico originado en Latinoamérica."
+  },
+  {
+    "kind": "general",
+    "id": "general-cumbia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país nació la cumbia?",
+    "hint": "Surgió en la región caribeña de este país sudamericano.",
+    "answer": "Colombia"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-paises-europa",
+    "eyebrow": "PAISES EUROPA",
+    "prompt": "Nombrá un país de Europa."
+  },
+  {
+    "kind": "general",
+    "id": "general-frida-kahlo",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿De qué país era la pintora Frida Kahlo?",
+    "hint": "Su Casa Azul está en Coyoacán.",
+    "answer": "México"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-capitales-europa",
+    "eyebrow": "CAPITALES EUROPA",
+    "prompt": "Nombrá una capital europea."
+  },
+  {
+    "kind": "general",
+    "id": "general-garcia-marquez",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién escribió Cien años de soledad?",
+    "hint": "Fue un escritor colombiano y ganó el Nobel de Literatura.",
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-idiomas",
+    "eyebrow": "IDIOMAS",
+    "prompt": "Nombrá un idioma que se hable en más de un país."
+  },
+  {
+    "kind": "general",
+    "id": "general-pablo-neruda",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué poeta chileno recibió el Nobel de Literatura en 1971?",
+    "hint": "Escribió Veinte poemas de amor y una canción desesperada.",
+    "answer": "Pablo Neruda"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-mares",
+    "eyebrow": "MARES",
+    "prompt": "Nombrá un mar del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-costa-rica",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Costa Rica?",
+    "hint": "Está en el Valle Central.",
+    "answer": "San José"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-montanas",
+    "eyebrow": "MONTANAS",
+    "prompt": "Nombrá una montaña famosa del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-isla-pascua",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿A qué país pertenece la isla de Rapa Nui, famosa por sus moáis?",
+    "hint": "Es una isla del Pacífico administrada por un país sudamericano.",
+    "answer": "Chile"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-desiertos",
+    "eyebrow": "DESIERTOS",
+    "prompt": "Nombrá un desierto del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-amazonas",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué río sudamericano tiene el mayor caudal del mundo?",
+    "hint": "Atraviesa la selva tropical más extensa del planeta.",
+    "answer": "El río Amazonas"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-islas-mundo",
+    "eyebrow": "ISLAS MUNDO",
+    "prompt": "Nombrá una isla del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-andes",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama la gran cordillera que recorre el oeste de Sudamérica?",
+    "hint": "Pasa por países como Bolivia, Perú y Chile.",
+    "answer": "La cordillera de los Andes"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-monumentos-mundo",
+    "eyebrow": "MONUMENTOS MUNDO",
+    "prompt": "Nombrá un monumento famoso del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-espana",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de España?",
+    "hint": "Allí se encuentra el Museo del Prado.",
+    "answer": "Madrid"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-maravillas",
+    "eyebrow": "MARAVILLAS",
+    "prompt": "Nombrá una de las siete maravillas del mundo moderno."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-francia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Francia?",
+    "hint": "La Torre Eiffel está en esta ciudad.",
+    "answer": "París"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-museos",
+    "eyebrow": "MUSEOS",
+    "prompt": "Nombrá un museo famoso y el país donde está."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-italia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Italia?",
+    "hint": "En su centro se encuentra el Coliseo.",
+    "answer": "Roma"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-pintores",
+    "eyebrow": "PINTORES",
+    "prompt": "Nombrá un pintor o pintora de cualquier época."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-egipto",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Egipto?",
+    "hint": "Está cerca de las pirámides de Guiza.",
+    "answer": "El Cairo"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-obras-arte",
+    "eyebrow": "OBRAS ARTE",
+    "prompt": "Nombrá una obra de arte famosa."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-australia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Australia?",
+    "hint": "No es Sídney ni Melbourne.",
+    "answer": "Canberra"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-compositores",
+    "eyebrow": "COMPOSITORES",
+    "prompt": "Nombrá un compositor o compositora de música clásica."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-canada",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Canadá?",
+    "hint": "Está en la provincia de Ontario.",
+    "answer": "Ottawa"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-instrumentos-mundo",
+    "eyebrow": "INSTRUMENTOS MUNDO",
+    "prompt": "Nombrá un instrumento musical de cualquier región del mundo."
+  },
+  {
+    "kind": "general",
+    "id": "general-muralla-china",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país se encuentra la Gran Muralla?",
+    "hint": "Es una construcción defensiva de Asia oriental.",
+    "answer": "China"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-deportes-olimpicos",
+    "eyebrow": "DEPORTES OLIMPICOS",
+    "prompt": "Nombrá un deporte olímpico."
+  },
+  {
+    "kind": "general",
+    "id": "general-taj-mahal",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país está el Taj Mahal?",
+    "hint": "Este mausoleo de mármol blanco está en Agra.",
+    "answer": "India"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-deportistas",
+    "eyebrow": "DEPORTISTAS",
+    "prompt": "Nombrá un deportista o una deportista histórica."
+  },
+  {
+    "kind": "general",
+    "id": "general-torre-pisa",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué país está la famosa torre inclinada de Pisa?",
+    "hint": "La ciudad de Pisa pertenece a este país europeo.",
+    "answer": "Italia"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-inventos",
+    "eyebrow": "INVENTOS",
+    "prompt": "Nombrá un invento que haya cambiado la vida cotidiana."
+  },
+  {
+    "kind": "general",
+    "id": "general-nilo",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué río atraviesa Egipto y desemboca en el mar Mediterráneo?",
+    "hint": "Fue fundamental para el desarrollo del antiguo Egipto.",
+    "answer": "El Nilo"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cientificos",
+    "eyebrow": "CIENTIFICOS",
+    "prompt": "Nombrá una científica o un científico famoso."
+  },
+  {
+    "kind": "general",
+    "id": "general-sahara",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama el desierto cálido más grande del mundo?",
+    "hint": "Se extiende por gran parte del norte de África.",
+    "answer": "El Sahara"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-elementos",
+    "eyebrow": "ELEMENTOS",
+    "prompt": "Nombrá un elemento químico de la tabla periódica."
+  },
+  {
+    "kind": "general",
+    "id": "general-everest",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?",
+    "hint": "Está en la cordillera del Himalaya.",
+    "answer": "El Everest"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-planetas",
+    "eyebrow": "PLANETAS",
+    "prompt": "Nombrá un planeta del sistema solar."
+  },
+  {
+    "kind": "general",
+    "id": "general-oceano-atlantico",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué océano separa principalmente América de Europa y África?",
+    "hint": "Es el segundo más grande del planeta.",
+    "answer": "El océano Atlántico"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-lunas",
+    "eyebrow": "LUNAS",
+    "prompt": "Nombrá una luna de algún planeta del sistema solar."
+  },
+  {
+    "kind": "general",
+    "id": "general-antartida",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿En qué continente está el Polo Sur?",
+    "hint": "Es el continente más frío y tiene población permanente muy reducida.",
+    "answer": "La Antártida"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-constelaciones",
+    "eyebrow": "CONSTELACIONES",
+    "prompt": "Nombrá una constelación."
+  },
+  {
+    "kind": "general",
+    "id": "general-idioma-mandarin",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la lengua con más hablantes nativos del mundo?",
+    "hint": "Es la variedad principal del idioma oficial de China.",
+    "answer": "El chino mandarín"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-animales-marinos",
+    "eyebrow": "ANIMALES MARINOS",
+    "prompt": "Nombrá un animal marino."
+  },
+  {
+    "kind": "general",
+    "id": "general-monalisa",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién pintó La Mona Lisa?",
+    "hint": "Fue un artista italiano del Renacimiento.",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-aves",
+    "eyebrow": "AVES",
+    "prompt": "Nombrá un ave que no sea una gallina."
+  },
+  {
+    "kind": "general",
+    "id": "general-noche-estrellada",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién pintó La noche estrellada?",
+    "hint": "El artista neerlandés la pintó durante su estancia en Francia.",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-mamiferos",
+    "eyebrow": "MAMIFEROS",
+    "prompt": "Nombrá un mamífero que no viva en tu casa."
+  },
+  {
+    "kind": "general",
+    "id": "general-hamlet",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién escribió la tragedia Hamlet?",
+    "hint": "Fue un dramaturgo inglés de la época isabelina.",
+    "answer": "William Shakespeare"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-insectos",
+    "eyebrow": "INSECTOS",
+    "prompt": "Nombrá un insecto."
+  },
+  {
+    "kind": "general",
+    "id": "general-don-quijote",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién escribió Don Quijote de la Mancha?",
+    "hint": "Su autor fue un escritor español del Siglo de Oro.",
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-arboles",
+    "eyebrow": "ARBOLES",
+    "prompt": "Nombrá una especie de árbol."
+  },
+  {
+    "kind": "general",
+    "id": "general-nobel-marie-curie",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué científica fue la primera mujer en ganar un Premio Nobel?",
+    "hint": "Investigó la radiactividad y ganó dos Nobel en distintas disciplinas.",
+    "answer": "Marie Curie"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-flores",
+    "eyebrow": "FLORES",
+    "prompt": "Nombrá una flor."
+  },
+  {
+    "kind": "general",
+    "id": "general-gravedad-newton",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿A qué científico se asocia la ley de gravitación universal?",
+    "hint": "Una famosa anécdota lo relaciona con una manzana.",
+    "answer": "Isaac Newton"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-fenomenos-naturales",
+    "eyebrow": "FENOMENOS NATURALES",
+    "prompt": "Nombrá un fenómeno natural."
+  },
+  {
+    "kind": "general",
+    "id": "general-tabla-periodica",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué elemento químico tiene el símbolo O?",
+    "hint": "Es esencial para la respiración de muchos seres vivos.",
+    "answer": "Oxígeno"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-partes-cuerpo",
+    "eyebrow": "PARTES CUERPO",
+    "prompt": "Nombrá una parte del cuerpo humano."
+  },
+  {
+    "kind": "general",
+    "id": "general-simbolo-oro",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el símbolo químico del oro?",
+    "hint": "Son las dos primeras letras de su nombre en latín, aurum.",
+    "answer": "Au"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-sabores",
+    "eyebrow": "SABORES",
+    "prompt": "Nombrá un sabor o gusto que podamos percibir."
+  },
+  {
+    "kind": "general",
+    "id": "general-pH-neutro",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué valor de pH se considera neutro en una solución acuosa a temperatura ambiente?",
+    "hint": "Está justo entre ácido y alcalino en la escala habitual.",
+    "answer": "7"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-palabras-ingles",
+    "eyebrow": "PALABRAS INGLES",
+    "prompt": "Digan palabras en inglés que se usan también al hablar español."
+  },
+  {
+    "kind": "general",
+    "id": "general-continentes",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos continentes se suelen contar en el modelo escolar usado en Latinoamérica?",
+    "hint": "América se cuenta como un solo continente en este modelo.",
+    "answer": "Seis"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-marcas-autos",
+    "eyebrow": "MARCAS AUTOS",
+    "prompt": "Nombrá una marca de autos."
+  },
+  {
+    "kind": "general",
+    "id": "general-arcoiris",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos colores se suelen distinguir tradicionalmente en el arcoíris?",
+    "hint": "La lista tradicional empieza con rojo y termina con violeta.",
+    "answer": "Siete"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-marcas-tecnologia",
+    "eyebrow": "MARCAS TECNOLOGIA",
+    "prompt": "Nombrá una marca de tecnología."
+  },
+  {
+    "kind": "general",
+    "id": "general-abejas",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué insecto produce miel?",
+    "hint": "Vive en colonias y visita flores para recolectar néctar.",
+    "answer": "La abeja"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-superheroes",
+    "eyebrow": "SUPERHEROES",
+    "prompt": "Nombrá un superhéroe o una superheroína."
+  },
+  {
+    "kind": "general",
+    "id": "general-pulpo-corazones",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos corazones tiene un pulpo?",
+    "hint": "Dos ayudan a las branquias y uno al resto del cuerpo.",
+    "answer": "Tres"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-villanos",
+    "eyebrow": "VILLANOS",
+    "prompt": "Nombrá un villano famoso de una película o serie."
+  },
+  {
+    "kind": "general",
+    "id": "general-jirafa",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el animal terrestre más alto?",
+    "hint": "Su cuello largo le permite alcanzar hojas de árboles.",
+    "answer": "La jirafa"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-series",
+    "eyebrow": "SERIES",
+    "prompt": "Nombrá una serie de televisión o streaming."
+  },
+  {
+    "kind": "general",
+    "id": "general-murcielago",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué único grupo de mamíferos puede volar de manera sostenida?",
+    "hint": "Se orienta con ecolocalización en muchas especies.",
+    "answer": "Los murciélagos"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-libros",
+    "eyebrow": "LIBROS",
+    "prompt": "Nombrá un libro que hayas leído o escuchado nombrar."
+  },
+  {
+    "kind": "general",
+    "id": "general-olimpiadas-anillos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos anillos tiene el símbolo olímpico?",
+    "hint": "Representan la unión de los continentes en el movimiento olímpico.",
+    "answer": "Cinco"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cuentos",
+    "eyebrow": "CUENTOS",
+    "prompt": "Nombrá un personaje de un cuento clásico."
+  },
+  {
+    "kind": "general",
+    "id": "general-ajedrez-casillas",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántas casillas tiene un tablero de ajedrez?",
+    "hint": "Tiene ocho filas y ocho columnas.",
+    "answer": "64"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-videojuegos",
+    "eyebrow": "VIDEOJUEGOS",
+    "prompt": "Nombrá un videojuego."
+  },
+  {
+    "kind": "general",
+    "id": "general-futbol-jugadores",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántos jugadores por equipo hay en cancha al inicio de un partido de fútbol tradicional?",
+    "hint": "El arquero está incluido en el total.",
+    "answer": "Once"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-consolas",
+    "eyebrow": "CONSOLAS",
+    "prompt": "Nombrá una consola de videojuegos."
+  },
+  {
+    "kind": "general",
+    "id": "general-tenis-grand-slam",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué torneo de tenis sobre césped se juega en Londres?",
+    "hint": "Es uno de los cuatro torneos de Grand Slam.",
+    "answer": "Wimbledon"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-juegos-mesa",
+    "eyebrow": "JUEGOS MESA",
+    "prompt": "Nombrá un juego de mesa."
+  },
+  {
+    "kind": "general",
+    "id": "general-primer-hombre-luna",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Quién fue la primera persona en caminar sobre la Luna?",
+    "hint": "Fue astronauta de la misión Apollo 11.",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-apps",
+    "eyebrow": "APPS",
+    "prompt": "Nombrá una aplicación que uses seguido."
+  },
+  {
+    "kind": "general",
+    "id": "general-primer-satelite",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llamó el primer satélite artificial puesto en órbita?",
+    "hint": "La Unión Soviética lo lanzó en 1957.",
+    "answer": "Sputnik 1"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-objetos-viaje",
+    "eyebrow": "OBJETOS VIAJE",
+    "prompt": "Nombrá algo que llevarías en una valija de viaje."
+  },
+  {
+    "kind": "general",
+    "id": "general-celula",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la unidad básica de los seres vivos?",
+    "hint": "Es la estructura mínima con funciones vitales.",
+    "answer": "La célula"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-aeropuerto",
+    "eyebrow": "COSAS AEROPUERTO",
+    "prompt": "Nombrá algo que encontrarías en un aeropuerto."
+  },
+  {
+    "kind": "general",
+    "id": "general-adn",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué molécula contiene gran parte de la información genética de los seres vivos?",
+    "hint": "Su estructura suele representarse como una doble hélice.",
+    "answer": "El ADN"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-playa",
+    "eyebrow": "COSAS PLAYA",
+    "prompt": "Nombrá algo que llevarías a la playa."
+  },
+  {
+    "kind": "general",
+    "id": "general-dinosaurios-extincion",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué grupo de animales desapareció hace unos 66 millones de años?",
+    "hint": "Un gran impacto es una de las causas asociadas a su extinción.",
+    "answer": "Los dinosaurios no avianos"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-cumple",
+    "eyebrow": "COSAS CUMPLE",
+    "prompt": "Nombrá algo que suele haber en un cumpleaños."
+  },
+  {
+    "kind": "general",
+    "id": "general-temperatura-agua",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿A cuántos grados Celsius hierve el agua pura al nivel del mar?",
+    "hint": "La presión atmosférica puede cambiar este valor.",
+    "answer": "100 °C"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-lluvia",
+    "eyebrow": "COSAS LLUVIA",
+    "prompt": "Nombrá algo que usarías en un día lluvioso."
+  },
+  {
+    "kind": "general",
+    "id": "general-planeta-anillos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué planeta es famoso por sus grandes anillos visibles?",
+    "hint": "Es el sexto planeta desde el Sol.",
+    "answer": "Saturno"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-sabores-helado",
+    "eyebrow": "SABORES HELADO",
+    "prompt": "Nombrá un sabor de helado."
+  },
+  {
+    "kind": "general",
+    "id": "general-via-lactea",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cómo se llama la galaxia donde está nuestro sistema solar?",
+    "hint": "Su nombre evoca una franja blanquecina en el cielo nocturno.",
+    "answer": "La Vía Láctea"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-desayuno",
+    "eyebrow": "DESAYUNO",
+    "prompt": "Nombrá algo que podrías desayunar."
+  },
+  {
+    "kind": "general",
+    "id": "general-vocales",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuántas vocales tiene el alfabeto español?",
+    "hint": "Son a, e, i, o y u.",
+    "answer": "Cinco"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-palabras-r",
+    "eyebrow": "PALABRAS R",
+    "prompt": "Digan palabras que empiecen con R. No valen nombres propios."
+  },
+  {
+    "kind": "general",
+    "id": "general-forma-italia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿A qué país europeo suelen comparar con una bota por la forma de su territorio?",
+    "hint": "Su capital es Roma.",
+    "answer": "Italia"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-palabras-tres-silabas",
+    "eyebrow": "PALABRAS TRES SILABAS",
+    "prompt": "Digan una palabra de tres sílabas. El resto propone otra."
+  },
+  {
+    "kind": "general",
+    "id": "general-cero-romanos",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué número no tenía un símbolo propio en la numeración romana clásica?",
+    "hint": "Es el número que representa la ausencia de cantidad.",
+    "answer": "El cero"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-canciones",
+    "eyebrow": "CANCIONES",
+    "prompt": "Nombrá una canción y quien sigue dice otra del mismo artista."
+  },
+  {
+    "kind": "general",
+    "id": "general-diamante",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es el material natural más duro en la escala de Mohs?",
+    "hint": "Es una forma cristalina del carbono.",
+    "answer": "El diamante"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-frases-cine",
+    "eyebrow": "FRASES CINE",
+    "prompt": "Digan una frase famosa de una película, sin decir el título."
+  },
+  {
+    "kind": "general",
+    "id": "general-fotosintesis-gas",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué gas absorben principalmente las plantas durante la fotosíntesis?",
+    "hint": "Su fórmula química es CO₂.",
+    "answer": "Dióxido de carbono"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-comidas-domingo",
+    "eyebrow": "COMIDAS DOMINGO",
+    "prompt": "Nombrá algo que suele servirse en un almuerzo familiar de domingo."
+  },
+  {
+    "kind": "general",
+    "id": "general-instrumento-bandoneon",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué instrumento de fuelle se asocia fuertemente con el tango?",
+    "hint": "Tiene botones y un sonido muy reconocible.",
+    "answer": "El bandoneón"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-heladera",
+    "eyebrow": "COSAS HELADERA",
+    "prompt": "Nombrá algo que podrías encontrar en una heladera."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-portugal",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Portugal?",
+    "hint": "Se encuentra junto al río Tajo.",
+    "answer": "Lisboa"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-mochila",
+    "eyebrow": "COSAS MOCHILA",
+    "prompt": "Nombrá algo que alguien podría llevar en su mochila."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-corea-sur",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Corea del Sur?",
+    "hint": "Es una gran metrópolis atravesada por el río Han.",
+    "answer": "Seúl"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-cine",
+    "eyebrow": "COSAS CINE",
+    "prompt": "Nombrá algo que encontrás en una sala de cine."
+  },
+  {
+    "kind": "general",
+    "id": "general-capital-grecia",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Cuál es la capital de Grecia?",
+    "hint": "La Acrópolis domina parte de esta ciudad.",
+    "answer": "Atenas"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-plaza",
+    "eyebrow": "COSAS PLAZA",
+    "prompt": "Nombrá algo que podrías ver en una plaza de Santa Cruz."
+  },
+  {
+    "kind": "general",
+    "id": "general-bateria-organismo",
+    "eyebrow": "LO SABÉS, O LO INVENTÁS.",
+    "prompt": "¿Qué órgano del cuerpo humano filtra la sangre y produce orina?",
+    "hint": "Tenemos dos, uno a cada lado de la columna.",
+    "answer": "Los riñones"
+  },
+  {
+    "kind": "challenge",
+    "id": "challenge-cosas-futbol",
+    "eyebrow": "COSAS FUTBOL",
+    "prompt": "Nombrá algo que se usa o aparece en un partido de fútbol."
+  }
+]
